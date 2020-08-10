@@ -1,4 +1,6 @@
 # ROBOSOCCER
+ Robot Soccer Bot Design and build three manual/autonomous/wireless robots i.e. one STRIKER, one DEFENDER and one GOALIE... Each team can have at most three robots for the full tournament.
+
 
 <h3>ARDUINO NRF24 DUAL DRIVE MOTOR REMOTE CONTROLLED</h3>
 <h5>Items used for this project</h5>
